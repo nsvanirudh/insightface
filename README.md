@@ -11,6 +11,12 @@ For all main contributors, please check [contributing](#contributing).
 
 ## Top News
 
+**`2022-11-28`**: Single line code for facial identity swapping in our python packge ver 0.7, please check the example [here](examples/in_swapper).
+
+**`2022-10-28`**: [MFR-Ongoing](http://iccv21-mfr.com) website is refactored, please create issues if there's any bug.
+
+**`2022-09-22`**: Now we have [web-demos](web-demos): [face-localization](http://demo.insightface.ai:7007/), [face-recognition](http://demo.insightface.ai:7008/), and [face-swapping](http://demo.insightface.ai:7009/).
+
 **`2022-08-12`**: We achieved Rank-1st of 
 [Perspective Projection Based Monocular 3D Face Reconstruction Challenge](https://tianchi.aliyun.com/competition/entrance/531961/introduction)
 of [ECCV-2022 WCPA Workshop](https://sites.google.com/view/wcpa2022), [paper](https://arxiv.org/abs/2208.07142) and [code](reconstruction/jmlr).
@@ -136,6 +142,7 @@ We provide standard IJB and Megaface evaluation pipelines in [evaluation](recogn
 - TensorRT: [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)  
 - TensorRT: [InsightFace-REST](https://github.com/SthPhoenix/InsightFace-REST)
 - ONNXRuntime C++: [ArcFace-ONNXRuntime](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/ort/cv/glint_arcface.cpp)
+- ONNXRuntime Go: [arcface-go](https://github.com/jack139/arcface-go)
 - MNN: [ArcFace-MNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/mnn/cv/mnn_glint_arcface.cpp)
 - TNN: [ArcFace-TNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/tnn/cv/tnn_glint_arcface.cpp)
 - NCNN: [ArcFace-NCNN](https://github.com/DefTruth/lite.ai.toolkit/blob/main/lite/ncnn/cv/ncnn_glint_arcface.cpp)
